@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 # Colors
 ESC_SEQ="\x1b["
